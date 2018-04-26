@@ -12,7 +12,7 @@ R CMD build ./
 R CMD INSTALL RMTL_1.0.tar.gz
 ```
 # Details
-Please check "RMTL-manuel.pdf" for more details.
+Please check ["RMTL-manuel.pdf"](https://github.com/transbioZI/RMTL/blob/master/RMTL-manual.pdf) for more details.
 
 # Contact
 If you have any question, please contact: hank9cao@gmail.com
