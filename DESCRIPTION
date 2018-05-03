@@ -6,6 +6,6 @@ Date: 2018-04-20
 Author: <han.cao@zi-mannheim.de>
 Maintainer: <han.cao@zi-mannheim.de>
 Description: This package provides an efficient implementation of regularized multi-task learning comprising 10 algorithms applicable for regression, classification, joint feature selection, task clustering, low-rank learning, sparse learning and network incorporation. All algorithms are implemented basd on the accelerated gradient descent method and feature a complexity of O(1/k^2). Sparse model structure is induced by the solving the proximal operator.
-License: GPL-2
+License: GPL-3
 
 
